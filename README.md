@@ -70,14 +70,6 @@ The same workflow can also be adapted for customer support, sales inquiries, uni
 
 Successfully built and tested an AI-powered email screening workflow that automatically receives email data, analyzes the content with Google Gemini, and stores the results in Google Sheets.
 
-## Workflow Screenshot
-
-![Make.com AI automation workflow](webhhook-ai-sheet.png)
-
-## AI Classification Screenshot
-
-![Google Gemini classification result](Gemini%20Result.png)
-
 ## Skills Demonstrated
 
 * AI Automation
@@ -92,3 +84,11 @@ Successfully built and tested an AI-powered email screening workflow that automa
 ## Project Status
 
 **Completed and tested successfully.**
+
+## Workflow Screenshot
+
+![Make.com AI automation workflow](webhhook-ai-sheet.png)
+
+## AI Classification Screenshot
+
+![Google Gemini classification result](Gemini%20Result.png)
