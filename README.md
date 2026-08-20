@@ -85,9 +85,11 @@ Successfully built and tested an AI-powered email screening workflow that automa
 
 **Completed and tested successfully.**
 
+
 ## Workflow Screenshot
 
 ![Make.com AI automation workflow](webhhook-ai-sheet.png)
+
 
 ## AI Classification Screenshot
 
